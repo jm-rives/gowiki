@@ -31,3 +31,4 @@ func main() {
 	p2, _ := loadPage("TestPage")
 	fmt.Println(string(p2.Body))
 }
+// using a comment to test credential caching.
